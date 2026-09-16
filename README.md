@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Spered
-- 👀 I’m interested in digital ID, data science and machine learning
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👋 Hi, I’m Dzung Le
+- 👀 I’m interested in music, dance, laws and compliance, data protection and financial independence
+- 🌱 I’m currently learning data science, AI agents, wines and anything else like gardening and learning about myself
+- 💞️ I’m looking to collaborate on international projects
 - 📫 How to reach me: lhdlondon18@gmail.com
 
 <!---
